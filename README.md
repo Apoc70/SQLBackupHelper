@@ -55,7 +55,7 @@ osql -E -S SERVERNAME\INSTANCENAME -i D:\Scripts\BACKUP-FULL.sql -o D:\Scripts\B
 
 Use the example commands to set up the .sql files for transaction log and differential backups.
 
-##Use the example commands to set up the .sql files for transaction log and differential backups.
+##Installation
 The SQL Backup Helper can be installed by using the setup binary (Red Gates SQL packager). The binary lets you choose the following:
 
 * Database name
@@ -80,7 +80,7 @@ The SQL Server Agent service account (when using SQL Server full edition) needs 
 
 ##TechNet Gallery
 Find the script at TechNet Gallery
-* https://gallery.technet.microsoft.com/Script-to-remove-unwanted-9d119c6b
+* https://gallery.technet.microsoft.com/Simplify-SQL-Backup-Jobs-59a71c00
 
 ##Credits
 Written by: Thomas Stensitzki
