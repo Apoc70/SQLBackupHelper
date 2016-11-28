@@ -70,7 +70,12 @@ The SQL Backup Helper can be installed by setting up the database manually and b
 
 ## Requirements
 SQL Server
-The SQL Backup Helper runs successfully on the following SQL Server Version: SQL Server 2005 (all versions), SQL Server 2008 (all versions), SQL Server 2008 R2 (all versions)
+The SQL Backup Helper runs successfully on the following SQL Server Version: 
+* SQL Server 2005 (all versions)
+* SQL Server 2008 (all versions)
+* SQL Server 2008 R2 (all versions)
+* SQL Server 2012 (all versions)
+* SQL Server 2014 (all versions)
 
 xp_cmdshell
 The extended SP xp_cmdshell must be enabled, as the SPs need access to the file system. 
