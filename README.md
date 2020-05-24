@@ -97,12 +97,6 @@ The extended SP xp_cmdshell must be enabled, as the SPs need access to the file 
 Access Rights
 The SQL Server Agent service account (when using SQL Server full edition) needs modify rights (at least) on the configured folders.
 
-## TechNet Gallery
-
-Download and vote at TechNet Gallery
-
-* [https://gallery.technet.microsoft.com/Simplify-SQL-Backup-Jobs-59a71c00](https://gallery.technet.microsoft.com/Simplify-SQL-Backup-Jobs-59a71c00)
-
 ## Note
 
 THIS CODE IS MADE AVAILABLE AS IS, WITHOUT WARRANTY OF ANY KIND. THE ENTIRE
@@ -112,19 +106,21 @@ RISK OF THE USE OR THE RESULTS FROM THE USE OF THIS CODE REMAINS WITH THE USER.
 
 Written by: Thomas Stensitzki
 
-Stay connected:
+## Stay connected
 
-* My Blog: [http://justcantgetenough.granikos.eu](http://justcantgetenough.granikos.eu)
-* Twitter: [https://twitter.com/stensitzki](https://twitter.com/stensitzki)
-* LinkedIn:	[http://de.linkedin.com/in/thomasstensitzki](http://de.linkedin.com/in/thomasstensitzki)
-* Github: [https://github.com/Apoc70](https://github.com/Apoc70)
+- My Blog: [http://justcantgetenough.granikos.eu](http://justcantgetenough.granikos.eu)
+- Twitter: [https://twitter.com/stensitzki](https://twitter.com/stensitzki)
+- LinkedIn: [http://de.linkedin.com/in/thomasstensitzki](http://de.linkedin.com/in/thomasstensitzki)
+- Github: [https://github.com/Apoc70](https://github.com/Apoc70)
+- MVP Blog: [https://blogs.msmvps.com/thomastechtalk/](https://blogs.msmvps.com/thomastechtalk/)
+- Tech Talk YouTube Channel (DE): [http://techtalk.granikos.eu](http://techtalk.granikos.eu)
 
 For more Office 365, Cloud Security, and Exchange Server stuff checkout services provided by Granikos
 
-* Blog: [http://blog.granikos.eu](http://blog.granikos.eu)
-* Website: [https://www.granikos.eu/en/](https://www.granikos.eu/en/)
-* Twitter: [https://twitter.com/granikos_de](https://twitter.com/granikos_de)
+- Blog: [http://blog.granikos.eu](http://blog.granikos.eu)
+- Website: [https://www.granikos.eu/en/](https://www.granikos.eu/en/)
+- Twitter: [https://twitter.com/granikos_de](https://twitter.com/granikos_de)
 
-Additional Credits:
+## Additional Credits
 
-* Markus Heiliger (Initial Version of SQL Helper functions)
+- Markus Heiliger (Initial Version of SQL Helper functions)
